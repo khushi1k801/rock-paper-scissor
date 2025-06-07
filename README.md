@@ -6,8 +6,8 @@ A simple and responsive Rock Paper Scissors game built using **HTML**, **CSS**, 
 
 ## 🎮 Live Demo
 
-👉 [Click here to play the game](https://your-username.github.io/rock-paper-scissors/)  
-*(Replace this with your actual GitHub Pages link once deployed)*
+👉 [Click here to play the game](https://khushi1k801.github.io/rock-paper-scissor/)  
+
 
 ---
 
